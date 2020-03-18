@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fprDump", "fprDump\fprDump.csproj", "{CC1B2847-21E5-4032-B113-841A60DB923D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1B2847-21E5-4032-B113-841A60DB923D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1B2847-21E5-4032-B113-841A60DB923D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1B2847-21E5-4032-B113-841A60DB923D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1B2847-21E5-4032-B113-841A60DB923D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B3E3759-915B-44A6-8BD5-25ADAEDB0E87}
+	EndGlobalSection
+EndGlobal

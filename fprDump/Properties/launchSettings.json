@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "fprDump": {
+      "commandName": "Project",
+      "commandLineArgs": "c:/temp/merged.fpr c:/temp/fprdump"
+    }
+  }
+}
