@@ -9,7 +9,8 @@ namespace fprDump
         {
             using (var dumper = new FprDumper(args[0]))
             {
-                dumper.ExportSolution(args[1]);
+                //dumper.ExportSource(args[1]);
+                dumper.ExportFindings(args[1]);
             }
         }
     }
